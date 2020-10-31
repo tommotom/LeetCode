@@ -9,26 +9,18 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        inorder = []
+        prev, first, last = None, None, None
 
-        def traversal(node):
-            nonlocal inorder
-            if not node: return
-            traversal(node.left)
-            inorder.append(node.val)
-            traversal(node.right)
+        def traversal(root):
+            nonlocal prev, first, last
+            if not root: return
+            traversal(root.left)
+            if prev:
+                if prev.val > root.val:
+                    if not first: first = prev
+                    last = root
+            prev = root
+            traversal(root.right)
 
         traversal(root)
-        inorder.sort()
-
-        idx = 0
-
-        def rewrite(node):
-            nonlocal inorder, idx
-            if not node: return
-            rewrite(node.left)
-            node.val = inorder[idx]
-            idx += 1
-            rewrite(node.right)
-
-        rewrite(root)
+        first.val, last.val = last.val, first.val
