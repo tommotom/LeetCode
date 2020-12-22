@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d156104519a967a643ea8cd3938830c2744b5db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39ff2da7d747bf3d6aa5d04e7beedf6cb09e5560" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3cda825b579f1ee40e59ea5df485c3dc182d10a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b27e7e6b7c7a2104d7b781328be37203072a26e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecb2319f04b5a8bb598799fbe4b4fc109b41b585" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5f1c083b21cc098f65a72db74bf0c7e738ad319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d0fd0539-f022-4937-90bb-8d2960b204b0" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5NJq1R0IK1t9Wkb6eXdN4dXlD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Explore/December-LeetCoding-Challenge" />
+      <recent name="$PROJECT_DIR$/Explore/November-LeetCoding-Challenge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.create.sh">
+    <configuration name="auto_commit.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/auto_commit.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Explore/September-LeetCoding-Challenge/create.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Explore/September-LeetCoding-Challenge" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.create.sh" />
+        <item itemvalue="Shell Script.auto_commit.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+      <created>1599296925108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599296925108</updated>
+      <workItem from="1605519975854" duration="19000" />
+      <workItem from="1605520002771" duration="103000" />
+      <workItem from="1605520116640" duration="390000" />
+      <workItem from="1605522742812" duration="342000" />
+      <workItem from="1605523095911" duration="1157000" />
+      <workItem from="1605573594515" duration="4000" />
+      <workItem from="1605688300152" duration="1094000" />
+      <workItem from="1605787953528" duration="598000" />
+      <workItem from="1605965387897" duration="317000" />
+      <workItem from="1606104791056" duration="1213000" />
+      <workItem from="1606209660881" duration="1003000" />
+      <workItem from="1606306770396" duration="666000" />
+      <workItem from="1606381670378" duration="4054000" />
+      <workItem from="1606711552410" duration="17000" />
+      <workItem from="1606746122806" duration="124000" />
+      <workItem from="1606746260011" duration="323000" />
+      <workItem from="1606815144807" duration="115000" />
+      <workItem from="1606896908789" duration="30000" />
+      <workItem from="1607000135596" duration="30000" />
+      <workItem from="1607069356166" duration="48000" />
+      <workItem from="1607160420724" duration="6786000" />
+      <workItem from="1607778790303" duration="164000" />
+      <workItem from="1607778971686" duration="1536000" />
+      <workItem from="1607908943181" duration="270000" />
+      <workItem from="1608208121831" duration="141000" />
+      <workItem from="1608466068958" duration="151000" />
+      <workItem from="1608466248234" duration="105000" />
+      <workItem from="1608466367185" duration="84000" />
+      <workItem from="1608471459847" duration="154000" />
+      <workItem from="1608471650126" duration="204000" />
+      <workItem from="1608471865900" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-184" y="-966" key="#Notifications" timestamp="1607778816044">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="-184" y="-966" key="#Notifications/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1607778816044" />
+    <state x="-194" y="-951" key="#Notifications/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190379476" />
+    <state x="-327" y="-1152" key="#Plugins" timestamp="1606746245741">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="-327" y="-1152" key="#Plugins/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1606746245741" />
+    <state x="-337" y="-1134" key="#Plugins/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190432641" />
+    <state x="-97" y="-1308" key="#Project_Structure" timestamp="1608471895282">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="384" y="117" key="#Project_Structure/-834.-1417.3440.1417/0.23.1792.1025@0.23.1792.1025" timestamp="1605522696079" />
+    <state x="-97" y="-1308" key="#Project_Structure/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1608471895282" />
+    <state x="1211" y="-1078" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601789819664">
+      <screen x="-834" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="1218" y="-1096" key="#com.intellij.execution.impl.EditConfigurationsDialog/-827.-1440.3440.1440/0.0.1792.1120@-827.-1440.3440.1440" timestamp="1601369522881" />
+    <state x="1211" y="-1078" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/-834.-1417.3440.1417/0.23.1792.1017@-834.-1417.3440.1417" timestamp="1601789819664" />
+    <state x="-239" y="-1056" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608471655720">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="-239" y="-1056" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1608471655720" />
+    <state x="-249" y="-1039" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190451462" />
+    <state x="252" y="-1034" key="RollbackChangesDialog" timestamp="1605172400639">
+      <screen x="-834" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="252" y="-1034" key="RollbackChangesDialog/-834.-1417.3440.1417/0.23.1792.1025@-834.-1417.3440.1417" timestamp="1605172400639" />
+    <state x="33" y="-1122" key="SettingsEditor" timestamp="1608471853097">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="33" y="-1104" key="SettingsEditor/-834.-1417.3440.1417/0.0.1792.1048@-834.-1417.3440.1417" timestamp="1605171867439" />
+    <state x="33" y="-1104" key="SettingsEditor/-834.-1417.3440.1417/0.23.1792.1017@-834.-1417.3440.1417" timestamp="1601789869394" />
+    <state x="-442" y="-1053" key="SettingsEditor/-834.-1417.3440.1417/0.23.1792.1025@-834.-1417.3440.1417" timestamp="1608208204155" />
+    <state x="522" y="153" key="SettingsEditor/-834.-1417.3440.1417/0.23.1792.1025@0.23.1792.1025" timestamp="1605523083982" />
+    <state x="33" y="-1122" key="SettingsEditor/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1608471853097" />
+    <state x="-488" y="-1105" key="SettingsEditor/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190333760" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1599869461310">
+      <screen x="-864" y="-1417" width="3440" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/-864.-1417.3440.1417/0.23.1792.1017@-864.-1417.3440.1417" timestamp="1599869461310" />
+    <state x="1456" y="-994" width="586" height="548" key="find.popup" timestamp="1603593254270">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="1456" y="-994" width="586" height="548" key="find.popup/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1603593254270" />
+    <state x="898" y="-997" key="new project wizard" timestamp="1603072575618">
+      <screen x="-834" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="898" y="-997" key="new project wizard/-834.-1417.3440.1417/0.23.1792.1025@-834.-1417.3440.1417" timestamp="1603072575618" />
+    <state x="1596" y="-922" key="refactoring.ChangeSignatureDialog" timestamp="1603593235215">
+      <screen x="-834" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="1596" y="-922" key="refactoring.ChangeSignatureDialog/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1603593235215" />
+    <state x="1279" y="-1058" width="670" height="676" key="search.everywhere.popup" timestamp="1601778640374">
+      <screen x="-845" y="-1417" width="3440" height="1417" />
+    </state>
+    <state x="1290" y="-1058" width="670" height="676" key="search.everywhere.popup/-834.-1417.3440.1417/0.23.1792.1017@-834.-1417.3440.1417" timestamp="1600861621168" />
+    <state x="1279" y="-1058" width="670" height="676" key="search.everywhere.popup/-845.-1417.3440.1417/0.23.1792.1017@-845.-1417.3440.1417" timestamp="1601778640374" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
