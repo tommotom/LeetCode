@@ -9,3 +9,7 @@ f
 6Explore/December-LeetCoding-Challenge/1218/Solution.py,d/5/d5232ebfd0e46a8e5f4ed1813e0ca4416a606905
 f
 6Explore/December-LeetCoding-Challenge/1220/Solution.py,d/f/dfd220223f4900450c916c4212079759a069a557
+f
+6Explore/December-LeetCoding-Challenge/1222/Solution.py,d/5/d5202d7c6b37734fff37a3941e8cfda3153677e3
+f
+6Explore/December-LeetCoding-Challenge/1221/Solution.py,1/7/174b90d9bc18551bd44c6aa22472dbfbb1b2cce4
