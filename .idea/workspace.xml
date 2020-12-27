@@ -64,6 +64,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Shell Script.create.sh">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="auto_commit.sh" type="ShConfigurationType" temporary="true">
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/auto_commit.sh" />
@@ -134,6 +145,7 @@
       <workItem from="1608471865900" duration="102000" />
       <workItem from="1608643698984" duration="64000" />
       <workItem from="1608731666156" duration="97000" />
+      <workItem from="1608899989284" duration="204000" />
     </task>
     <servers />
   </component>

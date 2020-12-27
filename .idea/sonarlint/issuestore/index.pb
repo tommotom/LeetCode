@@ -15,3 +15,7 @@ f
 6Explore/December-LeetCoding-Challenge/1221/Solution.py,1/7/174b90d9bc18551bd44c6aa22472dbfbb1b2cce4
 f
 6Explore/December-LeetCoding-Challenge/1223/Solution.py,7/7/7703123ab1fa208e5bace3081a103e352ec292b6
+f
+6Explore/December-LeetCoding-Challenge/1225/Solution.py,0/2/0213501571dd4ae6fda879caee204a7a345fb887
+f
+6Explore/December-LeetCoding-Challenge/1224/Solution.py,d/d/dd6b3bf32d95517f15dd08bfbae7eabdb8a8f717
