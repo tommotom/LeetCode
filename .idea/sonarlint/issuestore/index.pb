@@ -41,3 +41,11 @@ O
 Contest/Weekly-Contest-222/2.py,3/b/3b410f87ff93d656dd50d1fdd6861b0391cd46eb
 O
 Contest/Weekly-Contest-222/3.py,c/c/cc7cafc562337ef2ef37903f2ecbe859deded75d
+f
+6Explore/December-LeetCoding-Challenge/1231/Solution.py,f/a/fa1c11e90de959a2638d6acd31d74a51e96591fe
+^
+.Explore/January-LeetCoding-Challenge/create.sh,9/3/93f48a3bcfca7828096a80888fae99b938cd6652
+e
+5Explore/January-LeetCoding-Challenge/0101/Solution.py,a/e/aef67eaea3b4e488a1e88e0a32b8d401d4574499
+e
+5Explore/January-LeetCoding-Challenge/0102/Solution.py,c/d/cdbc55eb25c06cff6b869ae2cad20c3ede271187

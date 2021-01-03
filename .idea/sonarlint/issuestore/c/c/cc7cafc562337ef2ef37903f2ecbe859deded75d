@@ -1,4 +1,6 @@
 
+qpython:S117"SRename this parameter "leftSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(û¶™Ó8‘ÓÜ¸ì.
+|python:S117"YRename this local variable "rightSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(–„ÁÙüÿÿÿÿ8¢‰ä¸ì.
+tpython:S117"VRename this parameter "searchLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(û¶™Ó8‘ÓÜ¸ì.
 mpython:S100"ORename method "waysToSplit" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ”›£8Ã¬‰²ì.
-Npython:S1481"*Remove the unused local variable "modulo".(·­¡üÿÿÿÿÿ8Ã¬‰²ì.
-Fpython:S1481"'Remove the unused local variable "ans".(±‰¹Ô8Ò€«²ì.
+zpython:S117"WRename this local variable "midSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÛÉÕþÿÿÿÿ8¢‰ä¸ì.

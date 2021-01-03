@@ -10,13 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explore/December-LeetCoding-Challenge/4/Solution.py22y" beforeDir="false" afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/1.py" afterDir="false" />
-    </list>
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Explore/January-LeetCoding-Challenge" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,6 +59,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Explore/January-LeetCoding-Challenge" />
       <recent name="$PROJECT_DIR$/Explore/December-LeetCoding-Challenge" />
       <recent name="$PROJECT_DIR$/Explore/November-LeetCoding-Challenge" />
     </key>
@@ -160,7 +155,7 @@
       <workItem from="1609640860224" duration="131000" />
       <workItem from="1609641032482" duration="149000" />
       <workItem from="1609641192615" duration="3816000" />
-      <workItem from="1609654545597" duration="2484000" />
+      <workItem from="1609654545597" duration="2619000" />
     </task>
     <servers />
   </component>
