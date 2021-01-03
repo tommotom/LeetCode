@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explore/December-LeetCoding-Challenge/4/Solution.py22y" beforeDir="false" afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-222/1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +90,8 @@
       <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
       <option name="INTERPRETER_PATH" value="/bin/zsh" />
       <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="create.sh" type="ShConfigurationType" temporary="true">
@@ -95,6 +103,8 @@
       <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
       <option name="INTERPRETER_PATH" value="/bin/zsh" />
       <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -146,7 +156,11 @@
       <workItem from="1608643698984" duration="64000" />
       <workItem from="1608731666156" duration="97000" />
       <workItem from="1608899989284" duration="204000" />
-      <workItem from="1609057036422" duration="1602000" />
+      <workItem from="1609057036422" duration="1964000" />
+      <workItem from="1609640860224" duration="131000" />
+      <workItem from="1609641032482" duration="149000" />
+      <workItem from="1609641192615" duration="3816000" />
+      <workItem from="1609654545597" duration="2484000" />
     </task>
     <servers />
   </component>
@@ -171,10 +185,11 @@
     </state>
     <state x="-184" y="-966" key="#Notifications/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1607778816044" />
     <state x="-194" y="-951" key="#Notifications/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190379476" />
-    <state x="-327" y="-1152" key="#Plugins" timestamp="1606746245741">
-      <screen x="-834" y="-1440" width="3440" height="1440" />
+    <state x="264" y="224" key="#Plugins" timestamp="1609641179612">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="-327" y="-1152" key="#Plugins/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1606746245741" />
+    <state x="264" y="224" key="#Plugins/-834.-1440.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1609641179612" />
     <state x="-337" y="-1134" key="#Plugins/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190432641" />
     <state x="-97" y="-1308" key="#Project_Structure" timestamp="1608471895282">
       <screen x="-834" y="-1440" width="3440" height="1440" />
@@ -186,10 +201,15 @@
     </state>
     <state x="1218" y="-1096" key="#com.intellij.execution.impl.EditConfigurationsDialog/-827.-1440.3440.1440/0.0.1792.1120@-827.-1440.3440.1440" timestamp="1601369522881" />
     <state x="1211" y="-1078" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/-834.-1417.3440.1417/0.23.1792.1017@-834.-1417.3440.1417" timestamp="1601789819664" />
-    <state x="-239" y="-1056" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1608471655720">
-      <screen x="-834" y="-1440" width="3440" height="1440" />
+    <state x="597" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609640874934">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="369" key="#com.intellij.fileTypes.FileTypeChooser/-834.-1440.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1609640874934" />
+    <state x="310" y="299" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609654410300">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="-239" y="-1056" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1608471655720" />
+    <state x="310" y="299" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-834.-1440.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1609654410300" />
     <state x="-249" y="-1039" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190451462" />
     <state x="252" y="-1034" key="RollbackChangesDialog" timestamp="1605172400639">
       <screen x="-834" y="-1417" width="3440" height="1417" />
@@ -204,10 +224,6 @@
     <state x="522" y="153" key="SettingsEditor/-834.-1417.3440.1417/0.23.1792.1025@0.23.1792.1025" timestamp="1605523083982" />
     <state x="33" y="-1122" key="SettingsEditor/-834.-1440.3440.1440/0.0.1792.1120@-834.-1440.3440.1440" timestamp="1608471853097" />
     <state x="-488" y="-1105" key="SettingsEditor/-844.-1417.3440.1417/0.23.1792.1017@-844.-1417.3440.1417" timestamp="1601190333760" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1599869461310">
-      <screen x="-864" y="-1417" width="3440" height="1417" />
-    </state>
-    <state width="500" height="445" key="SwitcherDM/-864.-1417.3440.1417/0.23.1792.1017@-864.-1417.3440.1417" timestamp="1599869461310" />
     <state x="1456" y="-994" width="586" height="548" key="find.popup" timestamp="1603593254270">
       <screen x="-834" y="-1440" width="3440" height="1440" />
     </state>
@@ -223,7 +239,6 @@
     <state x="1279" y="-1058" width="670" height="676" key="search.everywhere.popup" timestamp="1601778640374">
       <screen x="-845" y="-1417" width="3440" height="1417" />
     </state>
-    <state x="1290" y="-1058" width="670" height="676" key="search.everywhere.popup/-834.-1417.3440.1417/0.23.1792.1017@-834.-1417.3440.1417" timestamp="1600861621168" />
     <state x="1279" y="-1058" width="670" height="676" key="search.everywhere.popup/-845.-1417.3440.1417/0.23.1792.1017@-845.-1417.3440.1417" timestamp="1601778640374" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
