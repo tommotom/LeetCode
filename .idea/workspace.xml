@@ -44,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Explore/January-LeetCoding-Challenge" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -147,6 +147,7 @@
       <workItem from="1609654545597" duration="2619000" />
       <workItem from="1609662345946" duration="114000" />
       <workItem from="1609749229883" duration="33000" />
+      <workItem from="1609938469308" duration="100000" />
     </task>
     <servers />
   </component>
