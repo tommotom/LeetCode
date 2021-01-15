@@ -75,3 +75,7 @@ O
 Contest/Weekly-Contest-223/1.py,a/b/abccc18bd1c39212dece37ccb885f5532f973a12
 e
 5Explore/January-LeetCoding-Challenge/0112/Solution.py,3/c/3c0088b33548461ceef0439113139194d694c3d7
+e
+5Explore/January-LeetCoding-Challenge/0113/Solution.py,6/b/6bcf2003a36894c22f3cbad6160bf87b69608aa6
+e
+5Explore/January-LeetCoding-Challenge/0114/Solution.py,7/5/758075b31a6593a53477f54b004cf6196099839b
