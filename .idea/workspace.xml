@@ -10,7 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +71,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Shell Script.create.sh">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="auto_commit.sh" type="ShConfigurationType" temporary="true">
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/auto_commit.sh" />
@@ -154,6 +171,8 @@
       <workItem from="1610517674829" duration="307000" />
       <workItem from="1610627844567" duration="114000" />
       <workItem from="1610716493031" duration="323000" />
+      <workItem from="1610800928144" duration="69000" />
+      <workItem from="1610859880733" duration="813000" />
     </task>
     <servers />
   </component>

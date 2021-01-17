@@ -81,3 +81,5 @@ e
 5Explore/January-LeetCoding-Challenge/0114/Solution.py,7/5/758075b31a6593a53477f54b004cf6196099839b
 e
 5Explore/January-LeetCoding-Challenge/0115/Solution.py,8/a/8ae8e342f513ee3706888003297d466ad7490385
+e
+5Explore/January-LeetCoding-Challenge/0116/Solution.py,6/b/6be8a56a53f9a1bae75db11a53793536bc3d0cf7
