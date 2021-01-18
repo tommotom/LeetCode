@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-224/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +168,7 @@
       <workItem from="1610627844567" duration="114000" />
       <workItem from="1610716493031" duration="323000" />
       <workItem from="1610800928144" duration="69000" />
-      <workItem from="1610859880733" duration="813000" />
+      <workItem from="1610859880733" duration="976000" />
     </task>
     <servers />
   </component>
