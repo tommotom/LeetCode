@@ -111,3 +111,5 @@ O
 Contest/Weekly-Contest-225/1.py,e/2/e208907d5c572d5c0f4b031bf454bc9129e54d37
 e
 5Explore/January-LeetCoding-Challenge/0124/Solution.py,7/3/73b1b06ec0a52901b05d57b1f6b965e8ac5ad657
+e
+5Explore/January-LeetCoding-Challenge/0125/Solution.py,d/8/d8acb169996c233873c31577b1c32f8eeb9d7d2f
