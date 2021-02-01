@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,18 +67,7 @@
       <recent name="$PROJECT_DIR$/Explore/November-LeetCoding-Challenge" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Solution">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Shell Script.auto_commit.sh">
     <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +118,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Solution" />
         <item itemvalue="Shell Script.create.sh" />
         <item itemvalue="Shell Script.auto_commit.sh" />
       </list>
@@ -196,6 +187,9 @@
       <workItem from="1611658263715" duration="62000" />
       <workItem from="1611743844509" duration="70000" />
       <workItem from="1611925376960" duration="91000" />
+      <workItem from="1612004141227" duration="1155000" />
+      <workItem from="1612017407250" duration="343000" />
+      <workItem from="1612077986154" duration="1193000" />
     </task>
     <servers />
   </component>
