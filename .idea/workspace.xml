@@ -11,6 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-226/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-226/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-226/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-226/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Explore/Feburary-LeetCoding-Challenge/create.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Explore/Feburary-LeetCoding-Challenge" />
       <recent name="$PROJECT_DIR$/Explore/January-LeetCoding-Challenge" />
       <recent name="$PROJECT_DIR$/Explore/December-LeetCoding-Challenge" />
       <recent name="$PROJECT_DIR$/Explore/November-LeetCoding-Challenge" />
@@ -189,7 +195,9 @@
       <workItem from="1611925376960" duration="91000" />
       <workItem from="1612004141227" duration="1155000" />
       <workItem from="1612017407250" duration="343000" />
-      <workItem from="1612077986154" duration="1193000" />
+      <workItem from="1612077986154" duration="1276000" />
+      <workItem from="1612244638134" duration="1652000" />
+      <workItem from="1612313768539" duration="588000" />
     </task>
     <servers />
   </component>
