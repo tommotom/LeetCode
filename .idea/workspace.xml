@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Explore/Feburary-LeetCoding-Challenge/0208/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Explore/Feburary-LeetCoding-Challenge/0208/Solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +206,7 @@
       <workItem from="1612077986154" duration="1276000" />
       <workItem from="1612244638134" duration="1652000" />
       <workItem from="1612313768539" duration="1619000" />
-      <workItem from="1612492203372" duration="1361000" />
+      <workItem from="1612492203372" duration="2434000" />
     </task>
     <servers />
   </component>
