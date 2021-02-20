@@ -10,11 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +47,9 @@
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1h5NJq1R0IK1t9Wkb6eXdN4dXlD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,6 +84,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Shell Script.auto_commit.sh">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,6 +224,9 @@
       <workItem from="1613032286147" duration="35000" />
       <workItem from="1613121432434" duration="191000" />
       <workItem from="1613369556487" duration="944000" />
+      <workItem from="1613480174669" duration="2243000" />
+      <workItem from="1613553136288" duration="591000" />
+      <workItem from="1613615450449" duration="513000" />
     </task>
     <servers />
   </component>
