@@ -11,10 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-229/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-229/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-229/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contest/Weekly-Contest-229/4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +226,7 @@
       <workItem from="1613480174669" duration="2243000" />
       <workItem from="1613553136288" duration="591000" />
       <workItem from="1613615450449" duration="513000" />
-      <workItem from="1613812854225" duration="896000" />
+      <workItem from="1613812854225" duration="1549000" />
     </task>
     <servers />
   </component>
