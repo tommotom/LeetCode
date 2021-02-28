@@ -1,0 +1,5 @@
+
+upython:S117"WRename this local variable "maxNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(υΦαγ8άΉ²νύ.
+zpython:S117"WRename this local variable "minNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬«‹ύÿÿÿÿ8άΉ²νύ.
+{python:S100"XRename method "findUnsortedSubarray" to match the regular expression ^[a-z_][a-z0-9_]*$.(―ξπÿÿÿÿÿ8άΉ²νύ.
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(―ξπÿÿÿÿÿ8άΉ²νύ.
