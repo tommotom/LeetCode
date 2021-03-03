@@ -215,3 +215,7 @@ O
 Contest/Weekly-Contest-230/4.py,c/1/c1a4203d1431f9ba9e6fcc85b662de2d8f5ef6f6
 \
 ,Explore/March-LeetCoding-Challenge/create.sh,1/5/15bb1855758257e670b299446240dbf36e4d6a50
+c
+3Explore/March-LeetCoding-Challenge/0301/Solution.py,d/c/dcf893f640de5c7e9a0fd457084987bef9b0200f
+c
+3Explore/March-LeetCoding-Challenge/0302/Solution.py,e/d/ed1488a2ba183aab81dd80e17b2f7965894ee502

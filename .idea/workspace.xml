@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Explore/March-LeetCoding-Challenge/create.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30118ff9-88fe-47d4-a021-da37b5312bc5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Explore/March-LeetCoding-Challenge" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -220,6 +217,7 @@
       <workItem from="1613812854225" duration="1567000" />
       <workItem from="1614331587705" duration="256000" />
       <workItem from="1614515699703" duration="1212000" />
+      <workItem from="1614694293992" duration="72000" />
     </task>
     <servers />
   </component>
