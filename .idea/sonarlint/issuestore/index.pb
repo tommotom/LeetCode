@@ -231,3 +231,7 @@ c
 3Explore/March-LeetCoding-Challenge/0307/Solution.py,8/e/8ee8e74d0387173189c294940f6e988c47402951
 c
 3Explore/March-LeetCoding-Challenge/0306/Solution.py,2/6/262711392995551049e636c6554b3728ac625cc5
+c
+3Explore/March-LeetCoding-Challenge/0310/Solution.py,8/e/8e73ed1e6e537cc48156a53acd8a493ff8f55e51
+c
+3Explore/March-LeetCoding-Challenge/0309/Solution.py,d/3/d3b84fa5e9f105249028d6865505d3dd08de9130
