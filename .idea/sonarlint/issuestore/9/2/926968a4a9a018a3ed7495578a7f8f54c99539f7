@@ -1,0 +1,11 @@
+
+tpython:S116"QRename this field "totalTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(¸ããüÿÿÿÿ8ÙÄ‹½…/
+upython:S117"WRename this parameter "stationName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å—¨ë8ÙÄ‹½…/
+ipython:S100"KRename method "checkIn" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å—¨ë8ÙÄ‹½…/
+zpython:S117
+"WRename this parameter "stationName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š–ü’üÿÿÿÿ8ÙÄ‹½…/
+opython:S100
+"LRename method "checkOut" to match the regular expression ^[a-z_][a-z0-9_]*$.(Š–ü’üÿÿÿÿ8ÙÄ‹½…/
+tpython:S117"VRename this parameter "endStation" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜØ©à8ÙÄ‹½…/
+vpython:S117"XRename this parameter "startStation" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜØ©à8ÙÄ‹½…/
+ppython:S100"RRename method "getAverageTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÜØ©à8ÙÄ‹½…/
