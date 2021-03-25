@@ -1,0 +1,4 @@
+
+kpython:S117"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼üÿ²8¦¦µŸ†/
+kpython:S117"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼üÿ²8¦¦µŸ†/
+ppython:S100"RRename method "advantageCount" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼üÿ²8¦¦µŸ†/
