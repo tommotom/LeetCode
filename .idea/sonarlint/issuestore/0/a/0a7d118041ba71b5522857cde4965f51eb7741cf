@@ -1,0 +1,5 @@
+
+~python:S117"`Rename this local variable "canFlowAtlantic" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïşñĞ8Š†²É†/
+‚python:S117"_Rename this local variable "canFlowPacific" to match the regular expression ^[_a-z][a-z0-9_]*$.(Åî´úÿÿÿÿ8Š†²É†/
+vpython:S100"SRename method "pacificAtlantic" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼›®ßøÿÿÿÿ8Š†²É†/
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(¼›®ßøÿÿÿÿ8Š†²É†/
