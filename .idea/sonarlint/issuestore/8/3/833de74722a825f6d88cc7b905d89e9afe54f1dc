@@ -1,4 +1,0 @@
-
-qpython:S100"PRename method "movesToStamp" to match the regular expression ^[a-z_][a-z0-9_]*$.(è¯Íßÿÿÿÿÿ8ù»­Àˆ/
-vpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(è¯Íßÿÿÿÿÿ8ù»­Àˆ/
-wpython:S1542"URename function "isSubsequenceAt" to match the regular expression ^[a-z_][a-z0-9_]*$.(žÊà³øÿÿÿÿ8ù»­Àˆ/

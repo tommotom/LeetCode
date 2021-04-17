@@ -1,4 +1,0 @@
-
-vpython:S117"SRename this parameter "ruleKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ъйќощ€€€€8ц≠С≈ю.
-xpython:S117"URename this parameter "ruleValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ъйќощ€€€€8ц≠С≈ю.
-spython:S100"PRename method "countMatches" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ъйќощ€€€€8ц≠С≈ю.

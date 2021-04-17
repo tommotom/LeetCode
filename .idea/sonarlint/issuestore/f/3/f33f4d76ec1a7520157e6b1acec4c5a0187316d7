@@ -1,12 +1,0 @@
-
-ppython:S100"MRename method "swapNodes" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰¾Áûÿÿÿÿ8Ø‹œ†ï.
-ypython:S117#"VRename this local variable "nextA" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Ïß…øÿÿÿÿ8Ø‹œ†ï.
-tpython:S117)"VRename this local variable "nextB" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¶À8Ø‹œ†ï.
-tpython:S117"VRename this local variable "prevA" to match the regular expression ^[_a-z][a-z0-9_]*$.(”¯¸‚8Ø‹œ†ï.
-ypython:S117%"VRename this local variable "prevB" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÄİçúÿÿÿÿ8Ø‹œ†ï.
-]python:S35163"9Refactor this method to not always return the same value.(Ì³Ä—ıÿÿÿÿ8Ø‹œ†ï.
-tpython:S1174"VRename this local variable "prevA" to match the regular expression ^[_a-z][a-z0-9_]*$.(”¯¸‚8Ø‹œ†ï.
-spython:S1003"PRename method "swapNeighbor" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì³Ä—ıÿÿÿÿ8Ø‹œ†ï.
-|python:S117C"YRename this local variable "prevTail" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÀ«ëÿÿÿÿÿ8Ø‹œ†ï.
-jpython:S100B"LRename method "swapHead" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŠÌáŞ8Ø‹œ†ï.
-rpython:S100N"TRename method "swapNeighborHead" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÈÈÀ­8Ø‹œ†ï.

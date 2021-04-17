@@ -1,8 +1,0 @@
-
-spython:S117"URename this parameter "beginWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕŸ–œ8ÀÝ—†ï.
-qpython:S117"SRename this parameter "endWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕŸ–œ8ÀÝ—†ï.
-rpython:S117"TRename this parameter "wordList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕŸ–œ8ÀÝ—†ï.
-npython:S100"PRename method "ladderLength" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕŸ–œ8ÀÝ—†ï.
-spython:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÕŸ–œ8ÀÝ—†ï.
-vpython:S117"XRename this local variable "onlyOne" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÞ’ç8ÀÝ—†ï.
-npython:S1542	"ORename function "oneLetter" to match the regular expression ^[a-z_][a-z0-9_]*$.(Áèÿ»8ÀÝ—†ï.

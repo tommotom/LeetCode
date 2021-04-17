@@ -1,5 +1,0 @@
-
-ppython:S117"MRename this parameter "K" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃØèßþÿÿÿÿ8ŒÁ¸€è.
-tpython:S100"QRename method "decodeAtIndex" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÃØèßþÿÿÿÿ8ŒÁ¸€è.
-ppython:S117"MRename this parameter "S" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃØèßþÿÿÿÿ8ŒÁ¸€è.
-python:S5886"`Return a value of type "str" instead of "NoneType" or update function "decodeAtIndex" type hint.(ò¤Ÿù8ŒÁ¸€è.
