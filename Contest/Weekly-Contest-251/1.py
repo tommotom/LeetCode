@@ -1,6 +1,5 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        ans = 0
         converted = ""
         for c in s:
             converted += str(ord(c) - ord("a") + 1)
