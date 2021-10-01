@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+clear
+echo -n "INPUT_DATE(YYYYMMDD):"
+read str
+
+YYYY=${str:0:4}
+MM=${str:4:2}
+DD=${str:6:2}
+
+echo $YYYY
+echo $MM
+echo $DD
+
+[ ! -d "$YYYY" ] && mkdir "$YYYY"
+[ ! -d "$YYYY/$MM" ] && mkdir "$YYYY/$MM"
+[ ! -d "$YYYY/$MM/$DD" ] && mkdir "$YYYY/$MM/$DD"
+
+touch $YYYY/$MM/$DD/Solution.py
