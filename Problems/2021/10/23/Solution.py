@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -36,3 +37,17 @@ class Solution:
                 r = m
 
         return pow(2, max_depth-1) + l-2
+=======
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        l, r = 0, len(nums)-1
+        while l < r:
+            m = l + (r-l) // 2
+            if nums[m] < nums[r]:
+                r = m
+            elif nums[m] > nums[r]:
+                l = m + 1
+            else:
+                r -= 1
+        return nums[l]
+>>>>>>> f7b18ebd954cd1b5e117dccf515afa0efa072d6a
