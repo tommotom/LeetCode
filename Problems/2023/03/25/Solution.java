@@ -36,7 +36,7 @@ class Solution {
         }
 
         long ans = 0;
-        int rest = n;
+        long rest = n;
         for (int id : counter.keySet()) {
             rest -= counter.get(id);
             ans += rest * counter.get(id);
