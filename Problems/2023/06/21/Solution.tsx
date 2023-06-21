@@ -1,6 +1,6 @@
 function minCost(nums: number[], cost: number[]): number {
 
-    const calcCost = (nums, cost, target) => {
+    const calcCost = (target) => {
         let ret = 0;
         for (let i = 0; i < nums.length; i++) {
             ret += Math.abs(nums[i] - target) * cost[i];
@@ -13,8 +13,8 @@ function minCost(nums: number[], cost: number[]): number {
 
     while (l < r) {
         const m = Math.floor(l + (r - l) / 2);
-        const L = calcCost(nums, cost, m);
-        const R = calcCost(nums, cost, m+1);
+        const L = calcCost(m);
+        const R = calcCost(m+1);
         if (L < R) {
             r = m;
         } else {
@@ -22,5 +22,5 @@ function minCost(nums: number[], cost: number[]): number {
         }
     }
 
-    return calcCost(nums, cost, l);
+    return calcCost(l);
 };
