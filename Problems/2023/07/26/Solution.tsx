@@ -20,6 +20,5 @@ function minSpeedOnTime(dist: number[], hour: number): number {
             l = m + 1;
         }
     }
-    console.log(l);
     return possible(l) ? l : -1;
 };
