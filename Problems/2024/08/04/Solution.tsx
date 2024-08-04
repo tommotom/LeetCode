@@ -15,8 +15,10 @@ function rangeSum(nums: number[], n: number, left: number, right: number): numbe
     arr.sort((a, b) => a - b);
 
     let ans = 0;
+    const mod = 1000000007;
     for (let i = left-1; i < right; i++) {
         ans += arr[i];
+        ans %= mod;
     }
 
     return ans;
