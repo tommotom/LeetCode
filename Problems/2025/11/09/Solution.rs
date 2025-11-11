@@ -1,8 +1,13 @@
 impl Solution {
-    pub fn max_adjacent_distance(nums: Vec<i32>) -> i32 {
-        let mut ans = (nums[0] - nums[nums.len() - 1]).abs();
-        for i in 1..nums.len() {
-            ans = ans.max((nums[i-1] - nums[i]).abs());
+    pub fn count_operations(mut num1: i32, mut num2: i32) -> i32 {
+        let mut ans = 0;
+        while num1 > 0 && num2 > 0 {
+            if num1 >= num2 {
+                num1 -= num2;
+            } else {
+                num2 -= num1;
+            }
+            ans += 1;
         }
         ans
     }
