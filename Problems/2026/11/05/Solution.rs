@@ -1,0 +1,5 @@
+impl Solution {
+    pub fn find_the_distance_value(arr1: Vec<i32>, arr2: Vec<i32>, d: i32) -> i32 {
+        arr1.iter().filter(|&num1| arr2.iter().all(|num2| (num1 - num2).abs() > d)).count() as i32
+    }
+}
